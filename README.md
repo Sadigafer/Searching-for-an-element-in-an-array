@@ -1,1 +1,1 @@
-# Searching-for-an-element-in-an-array
+# Searching for an element in an array
